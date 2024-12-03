@@ -7,7 +7,7 @@ In this trilogy of evolution, I have delved into the technology and processes of
 
 In https://github.com/KenTang-9Purple/frontend / https://kentang-9purple.github.io/frontend/ , I created a website using CSS, HTML, and JavaScript that adheres to responsive design, user experience, and accessibility standards. We introduced a hamburger menu to conceal multiple functionalities and used JavaScript's Date Object to dynamically update the year on the webpage.
 
-在 https://github.com/KenTang-9Purple/frontend / https://kentang-9purple.github.io/frontend/，我運用 CSS、HTML 和 JavaScript 創造了一個符合響應式設計、使用者體驗和可訪問性標準的網站。我引入了漢堡菜單來隱藏多項功能，同時利用 JavaScript 的 Date Object 實時更新網頁年份。
+在 https://github.com/KenTang-9Purple/frontend / https://kentang-9purple.github.io/frontend/ ，我運用 CSS、HTML 和 JavaScript 創造了一個符合響應式設計、使用者體驗和可訪問性標準的網站。我引入了漢堡菜單來隱藏多項功能，同時利用 JavaScript 的 Date Object 實時更新網頁年份。
 
 In https://github.com/KenTang-9Purple/frontend-react / https://kentang-9purple.github.io/frontend-react/, I decomposed the initial version into distinct JSX components such as Nav, Hero, About, Values, Pillars, and Footer. By leveraging data imports, we achieved dynamic content generation, significantly boosting development efficiency. With React's useState, we added a state variable to the hamburger menu for seamless toggling.
 
